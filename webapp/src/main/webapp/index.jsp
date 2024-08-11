@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** today and tommorrow we got my plan with my kukapilla **** </h1>   
+         <h1> **** today and tommorrow we got my plan with my Wife **** </h1>   
 	 
 
     </section>    
